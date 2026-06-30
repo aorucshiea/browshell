@@ -1,0 +1,17 @@
+{
+  "name": "terminal-bridge",
+  "version": "1.0.0",
+  "description": "Browser-based terminal with WebSocket PTY bridge, controllable via Browser MCP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-pty": "^1.0.0",
+    "ws": "^8.16.0"
+  },
+  "allowScripts": {
+    "node-pty@1.1.0": true
+  }
+}
