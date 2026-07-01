@@ -2,6 +2,8 @@
 
 A browser-based terminal with WebSocket PTY bridge — a full terminal emulator that runs in your browser, ideal for AI-controlled workflows and vibe coding.
 
+![Demo](readme.mp4)
+
 ## Features
 
 - **Full terminal emulation** via [xterm.js](https://xtermjs.org/)
