@@ -1,8 +1,9 @@
 # browshell
 
-A browser-based terminal with WebSocket PTY bridge — a full terminal emulator that runs in your browser, ideal for AI-controlled workflows and vibe coding.
+<video src="readme.mp4" controls></video>
 
-![Demo](readme.mp4)
+
+A browser-based terminal with WebSocket PTY bridge — a full terminal emulator that runs in your browser, ideal for AI-controlled workflows and vibe coding.
 
 ## Features
 
